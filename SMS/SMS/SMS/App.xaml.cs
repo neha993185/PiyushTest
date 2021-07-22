@@ -9,6 +9,8 @@ namespace SMS
         public App()
         {
             InitializeComponent();
+            //neha branch
+            MainPage = new MainPage();
             //Piyush branch
             MainPage = new MainPage();
 
