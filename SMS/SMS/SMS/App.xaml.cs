@@ -12,7 +12,6 @@ namespace SMS
             //neha branch
             MainPage = new MainPage();
             //Piyush branch
-            MainPage = new MainPage();
 
         }
 
