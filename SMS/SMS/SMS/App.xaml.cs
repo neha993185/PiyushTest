@@ -9,7 +9,7 @@ namespace SMS
         public App()
         {
             InitializeComponent();
-
+            //Piyush branch
             MainPage = new MainPage();
         }
 
