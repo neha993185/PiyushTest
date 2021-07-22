@@ -11,10 +11,12 @@ namespace SMS
             InitializeComponent();
             //Piyush branch
             MainPage = new MainPage();
+
         }
 
         protected override void OnStart()
         {
+            //Piyush start
         }
 
         protected override void OnSleep()
